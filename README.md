@@ -1,8 +1,8 @@
 # Portfolio
 
-# 👋 Hi, I'm Peter — Aspiring QA Engineer & Software Tester
+# Hi, I'm Peter — Aspiring QA Engineer/Software Tester (ISTQB Certified)
 
-Welcome to my GitHub portfolio! I'm diving deep into the world of software testing, learning how to break things beautifully so users don't have to. My focus is on building a strong foundation in manual testing, automation, and quality assurance best practices.
+Welcome to my GitHub portfolio! I'd like to share some of the things I've learned and currently learning as well as a music learning app project I'm working on that has helped facilitate how to break things beautifully so users don't have to.
 
 ---
 
