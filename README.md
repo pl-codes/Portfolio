@@ -18,14 +18,13 @@ I'm sharing what I've learned--and continue to learn--through a music learning a
 - Automation tools like Selenium
 - Testing with Azure DevOps
 - Git & GitHub for version control
-- API testing fundamentals
-- Performance testing with JMeter
 - Agile methodologies & SDLC
 
 ---
 ## 🚀 What I'm Learning
 - API testing fundamentals
 - Testing with Postman
+- Performance testing with JMeter
 ---
 
 ## 🧰 Tools & Technologies
@@ -62,10 +61,3 @@ I'm sharing what I've learned--and continue to learn--through a music learning a
 - Land my first QA role and grow into a test automation engineer
 - Contribute to open-source QA projects  
 - Build a flash card music interval learning app to work alongside institutions such as David Lucas Burge's Ear Training Super Course
-
-
----
-
-## 💬 Fun Fact
-
-I once found a bug in a calculator app that couldn’t subtract zero. QA magic in action.
