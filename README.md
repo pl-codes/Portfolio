@@ -52,12 +52,16 @@ I'm sharing what I've learned--and continue to learn--through a music learning a
 
 - 📧 Email: peter.ka.lewis@gmail.com  
 <!--- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) -->  
-- 📝 [Download My Resume](#) *(optional link)*
+- 📝 [Download My Resume](https://drive.google.com/file/d/10s-FbfdEcvRkJprDfHz6Vl3CtSHyqc3S/view?usp=sharing)
 
 ---
 
 ## 🌱 Goals
 
-- Land my first QA role and grow into a test automation engineer
-- Contribute to open-source QA projects  
+- Land my first QA role and grow into a test automation engineer  
 - Build a flash card music interval learning app to work alongside institutions such as David Lucas Burge's Ear Training Super Course
+- Contribute to open-source QA projects
+---
+
+## 💡 Fun Factoid
+I'm currently growing my Spanish language proficiency to support bilingual QA environments, testing, and user validation.
