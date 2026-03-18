@@ -4,7 +4,7 @@
 
 Welcome to my GitHub portfolio!
 
-I'm sharing what I've learned--and continue to learn--through a music learning app project that allows me to explore software testing strategies; inspiring me to break things beautifully so users don't have to.
+Through integrating my knowledge while building a music learning app, I continue to deepen my software testing skills, breaking things with purpose to protect the user experience 
 
 ---
 
@@ -42,24 +42,23 @@ I'm sharing what I've learned--and continue to learn--through a music learning a
 ## 📂 Sample Projects
 
 ### 🎯 [Music Interval Learning App Project](https://github.com/pl-codes/music-interval-cards)
-#### A flash card application to help musicians memorize music intervals. (Currently in progress).
+#### A flash card application to help musicians memorize music intervals. (In progress).
 ---
-### 🔍 [Test Case Templates & Bug Reports](https://github.com/yourusername/test-cases)
-#### A collection of sample test cases, bug reports, and exploratory testing notes based on mock applications.
+### 🔍 [Test Documentation Samples](https://github.com/yourusername/test-cases)
+#### A collection of Acceptance Test-Driven Development (ATDD) documentation, test plans, and test cases based on the Music Interval Learning App Project.
 ---
 
 ## 📄 Resume & Contact
 
 - 📧 Email: peter.ka.lewis@gmail.com  
 <!--- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) -->  
-- 📝 [Download My Resume](https://drive.google.com/file/d/10s-FbfdEcvRkJprDfHz6Vl3CtSHyqc3S/view?usp=sharing)
-
+- 📝 [Download My Resume](https://1drv.ms/w/c/8e2b78acfc0e1377/IQDRzK6_iw5qT7KOsdS9_r20AQZxrjWRwJ3GMbCxBZi_qFI?e=DG0plH)
 ---
 
 ## 🌱 Goals
 
 - Land my first QA role and grow into a test automation engineer  
-- Build a flash card music interval learning app to work alongside institutions such as David Lucas Burge's Ear Training Super Course
+- Build a flash card music interval learning app to work alongside programs such as David Lucas Burge's Ear Training Super Course
 - Contribute to open-source QA projects
 ---
 
