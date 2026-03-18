@@ -41,11 +41,13 @@ Through integrating my knowledge while building a music learning app, I continue
 
 ## 📂 Sample Projects
 
-### 🎯 [Music Interval Learning App Project](https://github.com/pl-codes/music-interval-cards)
+###  [Music Interval Learning App Project](https://github.com/pl-codes/music-interval-cards)
 #### A flash card application to help musicians memorize music intervals. (In progress).
 ---
-### 🔍 [Test Documentation Samples](https://github.com/yourusername/test-cases)
+###  [Test Documentation Samples](docs/doc_samples.md)
 #### A collection of Acceptance Test-Driven Development (ATDD) documentation, test plans, and test cases based on the Music Interval Learning App Project.
+
+
 ---
 
 ## 📄 Resume & Contact

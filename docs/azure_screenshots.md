@@ -1,0 +1,12 @@
+# 📸 Azure Test Plan Screenshots
+![alt text](<azure_test_plan/Test plan 1.JPG>)
+![alt text](<azure_test_plan/Test plan 2.JPG>)
+![alt text](<azure_test_plan/Test plan 3.JPG>)
+![alt text](<azure_test_plan/Test plan 4.JPG>)
+![alt text](<azure_test_plan/Test plan 5.JPG>)
+![alt text](<azure_test_plan/Test plan 6.JPG>)
+![alt text](<azure_test_plan/Test plan 7.JPG>)
+![alt text](<azure_test_plan/Test plan 8.JPG>)
+![alt text](<azure_test_plan/Test plan 9.JPG>)
+![alt text](<azure_test_plan/Test plan 10.JPG>)
+![alt text](<azure_test_plan/Test plan 10_b.JPG>)
