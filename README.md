@@ -54,7 +54,7 @@ Through integrating my knowledge while building a music learning app, I continue
 
 - 📧 Email: peter.ka.lewis@gmail.com  
 <!--- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) -->  
-- 📝 [Download My Resume](https://1drv.ms/w/c/8e2b78acfc0e1377/IQDRzK6_iw5qT7KOsdS9_r20AQZxrjWRwJ3GMbCxBZi_qFI?e=DG0plH)
+- 📝 [Download My Resume](https://drive.google.com/file/d/1yMoxfr0io7NI3bj77zAUryZhfNejKECL/view?usp=sharing)
 ---
 
 ## 🌱 Goals
